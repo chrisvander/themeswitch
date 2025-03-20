@@ -5,6 +5,11 @@
         <key>Label</key>
         <string>com.chrisvander.themeswitch</string>
 
+        <key>StandardErrorPath</key>
+        <string>/tmp/local.job.err</string>
+        <key>StandardOutPath</key>
+        <string>/tmp/local.job.out</string> 
+
         <key>ServiceDescription</key>
         <string>Syncs terminal applications based on system theme.</string>
 
