@@ -3,18 +3,18 @@
 <plist version="1.0">
     <dict>
         <key>Label</key>
-        <string>com.tim-xie.themeswitch</string>
+        <string>com.chrisvander.themeswitch</string>
 
         <key>ServiceDescription</key>
-        <string>Syncs Kitty and Neovim themes based on system theme</string>
+        <string>Syncs terminal applications based on system theme.</string>
 
         <key>Program</key>
-		<string>/usr/local/bin/themeswitchd</string>
+    		<string>/usr/local/bin/themeswitchd</string>
 
         <key>RunAtLoad</key>
-		<true />
+    		<true />
 
-		<key>KeepAlive</key>
-		<true />
+    		<key>KeepAlive</key>
+    		<true />
     </dict>
 </plist>
